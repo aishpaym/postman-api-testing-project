@@ -1,4 +1,3 @@
-# postman-api-testing-project
 # Postman API Testing Project
 
 API testing project created using Postman.
